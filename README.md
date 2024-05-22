@@ -17,7 +17,7 @@ oobe\bypassnro
 ```
 
 <p align="center">
-  <img width='60%' src="https://github.com/alvarodelburgoperez/Crear_Cuenta_Local-Instalacion_Windows_11/assets/114286823/b2c06f75-ab02-4336-b69d-d58626eb3457" alt="MDN" />
+  <img width='80%' src="https://github.com/alvarodelburgoperez/Crear_Cuenta_Local-Instalacion_Windows_11/assets/114286823/b2c06f75-ab02-4336-b69d-d58626eb3457" alt="MDN" />
 </p>
 
 Esto lo que hará es reiniciar la instalación de Windows y cuando volvamos a la pantalla de 'Vamos a conectarte a una red', nos aparecerá la opción de 'No tengo internet'.
