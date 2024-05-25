@@ -1,6 +1,6 @@
 # Crear Cuenta Local (Instalación Windows 11)
 
-## Pasos a seguir 
+## Pasos a seguir
 Para poder crear una cuenta local durante la instalación de Windows 11 hay que seguir estos pasos:
 
 1. Cuando lleguemos a esta pantalla, tendremos que presionar las teclas Shift + F10, esto abrirá la consola de comandos de Windows.
